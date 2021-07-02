@@ -1,5 +1,4 @@
-#Data-analysis-on-Python
-#Application of data analytics tools for predicting the results of a #biathlon sports competition.
+Application of data analytics tools for predicting the results of a biathlon sports competition
 
 The objective was to test methods of forecasting the results of biathlon competition.
 
